@@ -17,3 +17,9 @@
 # Interview
 - https://github.com/viraptor/reverse-interview
 - https://github.com/jwasham/coding-interview-university#system-design-scalability-data-handling
+
+# System Architecture
+- Isolation
+- Scalability (up & out)
+  - Application
+  - Database
